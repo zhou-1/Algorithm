@@ -1,1 +1,1 @@
-
+Use Hash table and a greedy algorithm to help travelers find the best scheme to the destination before purchase the ticket, also show them the detailed information about their flight after purchase. With our Flight Assistant, travelers can save money and time on purchasing tickets; what’s more, travelers can know detailed information about their flight clearly and on time once needed.
