@@ -1,2 +1,3 @@
 # Algorithm
-Description, projects using Matlab, Python and Machine Learning
+Basic ideas about algorithm.
+All projects related to algorithm.
