@@ -4,4 +4,9 @@ Preorder: root, left, right
 Postorder: left, right, root     
 
 ## Recursive    
-private helper() function
+private helper() function   
+
+
+## Iterative    
+Always we need a Stack for it     
+
